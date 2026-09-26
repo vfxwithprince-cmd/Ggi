@@ -1,0 +1,6 @@
+{
+  "name": "Hindi Text to Speech",
+  "description": "A comprehensive Text-to-Speech studio featuring multiple authentic Hindi voice versions, neural audio synthesis, customizable styles, and instant speech playback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
